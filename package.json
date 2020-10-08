@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/hcl-smile/js/issues"
   },
+  "jest": {
+    "verbose": true
+  },
   "homepage": "https://github.com/hcl-smile/js#readme",
   "devDependencies": {
     "@babel/core": "^7.11.6",
